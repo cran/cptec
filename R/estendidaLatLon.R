@@ -10,7 +10,7 @@
 #' @param lat The latitude numeric/character vector
 #' @param lon The longitude numeric/character vector
 #' @return The function returns a data frame printed by the parameters input
-#' @author  Renato Prado Siqueira \email{<rpradosiqueira@gmail.com>}
+#' @author  Renato Prado Siqueira \email{rpradosiqueira@@gmail.com}
 #' @seealso \code{\link{prevEstendida}}
 #' @examples
 #' ## Requesting weather forecast with a latitude/longitude information

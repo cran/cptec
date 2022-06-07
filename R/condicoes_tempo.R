@@ -2,10 +2,15 @@
 #'
 #' @usage condicoes_tempo()
 #' @return The function returns a sigle data frame.
-#' @author  Renato Prado Siqueira \email{<rpradosiqueira@gmail.com>}
+#' @author  Renato Prado Siqueira \email{rpradosiqueira@@gmail.com}
 #' @seealso \code{\link{estacoes_metar}}
 #' @examples
+#'
+#' \dontrun{
+#'
 #' condicoes_tempo()
+#'
+#' }
 #'
 #' @keywords weather forecast brazil
 #' @importFrom magrittr %>%

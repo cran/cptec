@@ -8,7 +8,7 @@
 #'
 #' @usage capitais()
 #' @return The function returns a data frame
-#' @author  Renato Prado Siqueira \email{<rpradosiqueira@gmail.com>}
+#' @author  Renato Prado Siqueira \email{rpradosiqueira@@gmail.com}
 #' @seealso \code{\link{prev4dias}}
 #' @examples
 #' capitais()

@@ -8,7 +8,7 @@
 #' @usage metar(x)
 #' @param x A character vector with the desired weather station(s) code(s)
 #' @return The function returns a data frame
-#' @author  Renato Prado Siqueira \email{<rpradosiqueira@gmail.com>}
+#' @author  Renato Prado Siqueira \email{rpradosiqueira@@gmail.com}
 #' @seealso \code{\link{estacoes_metar}}
 #' @examples
 #' ## Requesting weather condition from SBGR and SBTK stations

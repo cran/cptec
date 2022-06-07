@@ -8,7 +8,7 @@
 #' @usage prev7dias(id)
 #' @param id The city's ID
 #' @return The function returns a data frame printed by city id
-#' @author  Renato Prado Siqueira \email{<rpradosiqueira@gmail.com>}
+#' @author  Renato Prado Siqueira \email{rpradosiqueira@@gmail.com}
 #' @seealso \code{\link{prev7dias}}
 #' @examples
 #' ## Requesting weather forecast from the city of Campo Grande/MS

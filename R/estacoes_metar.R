@@ -2,7 +2,7 @@
 #'
 #' @usage estacoes_metar()
 #' @return The function returns a sigle data frame.
-#' @author  Renato Prado Siqueira \email{<rpradosiqueira@gmail.com>}
+#' @author  Renato Prado Siqueira \email{rpradosiqueira@@gmail.com}
 #' @seealso \code{\link{condicoes_tempo}}
 #' @examples
 #' estacoes_metar()

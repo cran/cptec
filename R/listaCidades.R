@@ -6,7 +6,7 @@
 #' @usage listaCidades(x)
 #' @param x A single character to search.
 #' @return The function returns a data frame with the results of the search.
-#' @author  Renato Prado Siqueira \email{<rpradosiqueira@gmail.com>}
+#' @author  Renato Prado Siqueira \email{rpradosiqueira@@gmail.com}
 #' @seealso \code{\link{prev4dias}}
 #' @examples
 #' ## Looking for the city of Campo Grande

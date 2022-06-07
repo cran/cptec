@@ -18,7 +18,7 @@
 #'      \item todos: Return all data available
 #'      }
 #' @return The function returns a data frame printed by parameters input
-#' @author  Renato Prado Siqueira \email{<rpradosiqueira@gmail.com>}
+#' @author  Renato Prado Siqueira \email{rpradosiqueira@@gmail.com}
 #' @seealso \code{\link{iuv}}
 #' @examples
 #' ## Requesting sea waves' forecast from the city of Rio de Janeiro/RJ
